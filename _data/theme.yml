@@ -1,7 +1,7 @@
 # Theme customization - please change from the defaults!
 
 # Color for top bar, links, etc
-highlight_color: '#3498db'
+highlight_color: '#f6519c'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
@@ -23,4 +23,4 @@ google_analytics_key: UA-xxxx-x
 show_disclaimer: true
 
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
-show_atom_feed: true
+show_atom_feed: false
