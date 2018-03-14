@@ -6,14 +6,14 @@ highlight_color: '#f6519c'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: 
-  #linkedin:"https://www.linkedin.com/in/eliyeo/"
+  #linkedin:(https://www.linkedin.com/in/eliyeo)
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
 
 
 # "Hi, I'm _______"
 name: Elizabeth Yeo
-email: lizsyeo@gmail.com
+email: <lizsyeo@gmail.com>
 tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
